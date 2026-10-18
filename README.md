@@ -1,2 +1,1 @@
-# CD26-QOT-Open-Source-Patent-CuecaLabs
-1. Especificación de Patente Descentralizada QOT-DPP4-2026-P01 - Ciencia Abierta
+Patente Descentralizada de Ciencia abierta (AGPL-3.0), que incluye la Arquitectura de Restructuración Macromolecular (Reivindicación 1), el Mecanismo de Interferencia Orbital de Baja Energía (Reivindicación 2), la Cascada de Señalización y Direccionamiento Homeostático (Reivindicación 3) y la Cláusula de Licencia Pública General Descentralizada (AGPL-3.0) con registro autónomo QOT-DPP4-2026-P01 y códigos indexados [PDB 1X70] y [PubMed 1497203], se encuentra disponible para ser copiado en su totalidad en el documento fuente proporcionado originalmente.
