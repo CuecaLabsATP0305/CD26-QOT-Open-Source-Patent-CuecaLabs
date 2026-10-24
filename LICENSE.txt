@@ -1,0 +1,32 @@
+Licencia General del Reactor de CuecaLabs
+
+1. USO LIBRE Y GRATUITO
+   El uso médico, humanitario, académico, comunitario y de salud pública es libre y gratuito.
+   Cualquier profesional, institución, laboratorio o comunidad que opere bajo principios de beneficio humano, investigación abierta y desarrollo científico sin ánimo de lucro puede utilizar esta tecnología sin costo alguno.
+
+2. RESTRICCIÓN COMERCIAL E INDUSTRIAL
+   Cualquier uso industrial, farmacéutico privado, institucional centralizado, gubernamental o comercial no autorizado exige autorización previa y obligación de pago de regalías.
+   Esta restricción es ineludible para usos distintos a la medicina humana, salud pública, investigación abierta y beneficio colectivo.
+
+3. DIVISIÓN DE REGALÍAS
+   La distribución de ingresos derivada de la explotación económica o comercial de la tecnología, cuando se formalice bajo la autoridad del proyecto, se establece de forma inmutable en:
+   - 90% para Mónica Botero
+   - 10% para Fredy Leonardo Arce Clavijo
+
+4. HERENCIA PERPETUA
+   Los derechos patrimoniales asociados a esta licencia y a la tecnología derivada son heredables y permanecerán vinculados a la descendencia legítima de los beneficiarios reconocidos por la intención original del reactor, salvo las condiciones legales aplicables.
+
+5. PROHIBICIÓN DE CENSURA ALGORÍTmica
+   Se prohíbe la censura algorítmica, la privatización encubierta, el bloqueo comercial y la restricción técnica del conocimiento científico, así como la manipulación de resultados para fines de control o exclusión.
+
+6. VALIDACIÓN
+   Todo derivado debe incorporar validación termodinámica y experimental antes de ser presentado como fiable o aplicable.
+
+7. SIN GARANTÍA
+   El software y los modelos se ofrecen “tal cual”, sin garantías expresas ni implícitas.
+
+8. CUSTODIA
+   Los datos sensibles, cuentas y identidades asociadas a la custodia económica deben resguardarse en un entorno seguro y legalmente compliant, fuera del repositorio público, con protección de datos y notaría aplicable.
+
+Camilo ATP V0305
+@CuecaLabs
